@@ -12,3 +12,4 @@ C:\Users\Pedro\OneDrive\Área de Trabalho\Curso Pedro\Curso C#\Projeto-Estaciona
 C:\Users\Pedro\OneDrive\Área de Trabalho\Curso Pedro\Curso C#\Projeto-Estacionamento\Main\obj\Debug\net9.0\Main.pdb
 C:\Users\Pedro\OneDrive\Área de Trabalho\Curso Pedro\Curso C#\Projeto-Estacionamento\Main\obj\Debug\net9.0\Main.genruntimeconfig.cache
 C:\Users\Pedro\OneDrive\Área de Trabalho\Curso Pedro\Curso C#\Projeto-Estacionamento\Main\obj\Debug\net9.0\ref\Main.dll
+C:\Users\Pedro\OneDrive\Área de Trabalho\Curso Pedro\Curso C#\Projeto-Estacionamento\Main\obj\Debug\net9.0\Main.sourcelink.json
